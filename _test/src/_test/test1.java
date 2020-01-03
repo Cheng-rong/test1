@@ -4,7 +4,7 @@ public class test1 {
 
 	public static void main(String[] args) {
 		String s="abc";
-		System.out.println("1111");
+		System.out.println(s);
 	}
 
 }
